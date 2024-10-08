@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - shamith2
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - shamith2/onnxInsights
+  - shamith2/batteryRL
+  - shamith2/my_capture_the_flag_environment_code
+  - shamith2/ece_408
+  - shamith2/ece_365
