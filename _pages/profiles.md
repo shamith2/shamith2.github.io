@@ -12,13 +12,11 @@ profiles:
   - align: right
     image: prof_pic.png
     content: about.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Austin, TX</p>
   - align: left
     image: prof_pic.png
     content: about.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Austin, TX</p>
 ---
